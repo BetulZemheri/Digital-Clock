@@ -1,0 +1,14 @@
+body {
+    background: rgb(222, 224, 203);
+}
+
+.clock {
+    letter-spacing: 2px;
+    font-size: 90px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #4b5640;
+    position: absolute;
+    transform: translateX(-50%) translateY(-50%);
+    top: 50%;
+    left: 50%;
+}
